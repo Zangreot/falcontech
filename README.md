@@ -1,4 +1,9 @@
 # FalconTech
+![Closed Source](https://img.shields.io/badge/source-closed--source-red)
+![Docs Only](https://img.shields.io/badge/docs-available-blue)
+[![Discord](https://img.shields.io/discord/1248661763965321247?label=discord&logo=discord&color=5865F2)](https://discord.gg/nASdSJhQuZ)
+[![Wiki](https://img.shields.io/badge/wiki-available-brightgreen)](https://github.com/Zangreot/falcontech/wiki)
+[![Issues](https://img.shields.io/github/issues/Zangreot/falcontech)](https://github.com/Zangreot/falcontech/issues)
 
 **FalconTech** is the all-in-one Discord, Twitch & Kick bot designed for streamers, communities, and moderators who want advanced tools, seamless automation, and a modern dashboard – without the need to manage code or hosting yourself.
 
@@ -48,7 +53,7 @@ With a user-friendly dashboard and regular updates, FalconTech helps you keep yo
 
 ## 🤝 Contributing & Support
 
-FalconTech is a ![Closed Source](https://img.shields.io/badge/source-closed--source-red) **closed-source** project.  
+FalconTech is a **closed-source** project.  
 If you have ideas, questions, or want to join the FalconTech community, feel free to:
 - Open an Issue
 - Join our [Discord Support Server](#) *(link to your Discord, if available)*
