@@ -37,9 +37,6 @@ With a user-friendly dashboard and regular updates, FalconTech helps you keep yo
 
 > _See the [Wiki](https://github.com/Zangreot/falcontech/wiki) for live demos, feature overviews, and usage guides._
 
-![Dashboard Example](assets/dashboard-screenshot.png)
-![Leaderboard Example](assets/leaderboard-screenshot.png)
-
 ---
 
 ## 📚 Documentation & Help
@@ -56,7 +53,7 @@ With a user-friendly dashboard and regular updates, FalconTech helps you keep yo
 FalconTech is a **closed-source** project.  
 If you have ideas, questions, or want to join the FalconTech community, feel free to:
 - Open an Issue
-- Join our [Discord Support Server](#) *(link to your Discord, if available)*
+- Join our [Discord Support Server](https://discord.gg/nASdSJhQuZ) *(link to your Discord, if available)*
 
 ---
 
