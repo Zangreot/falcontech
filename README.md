@@ -48,7 +48,7 @@ With a user-friendly dashboard and regular updates, FalconTech helps you keep yo
 
 ## 🤝 Contributing & Support
 
-FalconTech is a **closed-source** project.  
+FalconTech is a ![Closed Source](https://img.shields.io/badge/source-closed--source-red) **closed-source** project.  
 If you have ideas, questions, or want to join the FalconTech community, feel free to:
 - Open an Issue
 - Join our [Discord Support Server](#) *(link to your Discord, if available)*
